@@ -6,3 +6,11 @@
 *.svg
 *.ttf
 *.woff
+*.jpg
+*.gif
+*.jpeg
+*.png
+*.eot
+*.json
+*.sql
+*.key
